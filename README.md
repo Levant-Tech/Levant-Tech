@@ -1,6 +1,6 @@
 ### Hello World, I'm yazan 👋
 
-<img align="right" alt="GIF" src="https://github.com/yazan81/yazan81/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/yazan81/yazan81/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ## I'm a Developer, Creator, and Mentor!
 
