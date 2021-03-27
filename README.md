@@ -1,10 +1,11 @@
 ### Hello World, I'm yazan 👋
 
- <img align="right" alt="GIF" src="https://github.com/yazan81/yazan81/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/yazan81/yazan81/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Developer, Creator, and Mentor!
 
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [https://github.com/yazan81]
+- </br>
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
