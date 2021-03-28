@@ -13,12 +13,12 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Dotch, Arabic, Turkish plus Codeing 😄 )
 
 ### Connect with me, We can make great thing, :
-<style="background-color:white;">
-[<img align="left" alt="Levent-tech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" style="color:blue;" alt="Levent-tech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Levent-tech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
-</style>
+
 
 ### Languages and Tools:
 
