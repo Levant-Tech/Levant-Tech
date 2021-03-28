@@ -4,8 +4,7 @@
 
 ## I'm a Developer, Creator, and Tester !
 
-- ✍ You can find my projects here https://github.com/yazan81?tab=repositories
-- </br>
+- ✍ You can find my projects here [portfolio]</br>
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native , AWS
 - 👯 I’m looking to collaborate on open source Project 
@@ -13,10 +12,11 @@
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Dotch, Arabic, Turkish plus Codeing 😄 )
 
-### Talk with me, We can make great thing, 
+### Connect with me, We can make great thing, :
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Levent-tech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Levent-tech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 
 ### Languages and Tools:
@@ -55,14 +55,9 @@
 
 </details>
 
-### Connect with me:
-
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yaioub81 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yaioub81 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [website]: https://leventtech.com
 [youtube]: https://www.youtube.com
+[twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
 [linkedin]: https://linkedin.com//in/yazan-ayoub-19aa12111/
-[portfolio]: https://yaioub81.github.io/profile/
+[portfolio]:https://github.com/yazan81
