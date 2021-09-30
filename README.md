@@ -3,7 +3,6 @@
 
 ## I'm a Developer, Creator, and Tester !
 
-- ✍ <i>You can find my projects here </i> [portfolio]</br>
 - 🔭  <em> I’m currently working on my first book.</em>
 - 🌱 I’m currently learning React Native , AWS
 - 👯 I’m looking to collaborate on open source Project 
